@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "dev": "live-server --port=5500"
+  },
+  "name": "xcrossing",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmMarcinus/xcrossing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmMarcinus/xcrossing/issues"
+  },
+  "homepage": "https://github.com/mmMarcinus/xcrossing#readme",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
