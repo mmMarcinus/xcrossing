@@ -49,10 +49,10 @@ export function spawnPedestrian(pedestrians, canvasSize, roadWidth) {
       break;
     case 'right':
       x = -offset;
-      y = center - roadWidth / 2 - 15;
+      y = center - roadWidth / 2 - 20;
       break;
     case 'up':
-      x = center + roadWidth / 2 + offset;
+      x = center + roadWidth / 2 + offset - 10;
       y = canvasSize + offset;
       break;
     case 'down':

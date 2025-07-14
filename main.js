@@ -15,9 +15,9 @@ const pedestrians = [];
 
 const lights = [
   new TrafficLight(390, 280, 'vertical'),
-  new TrafficLight(390, 490, 'vertical'),
+  new TrafficLight(390, 510, 'vertical'),
   new TrafficLight(280, 390, 'horizontal'),
-  new TrafficLight(490, 390, 'horizontal'),
+  new TrafficLight(510, 390, 'horizontal'),
 ];
 
 const pedestrianLights = {
